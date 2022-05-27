@@ -1,0 +1,23 @@
+id: ID26D50B7
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T17:23:00.601430'
+last_modified: '2022-05-27T17:23:00.601441'
+parser: null
+source_metadata:
+  title: 'MSV 1,14: Poṣadhasthāpanavastu'
+  language: bo
+  base:
+    f11BB:
+      title: Poṣadhasthāpanavastu
+      base_file: f11BB.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
